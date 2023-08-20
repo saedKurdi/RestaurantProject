@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Asus\source\repos\oopFINAL\oopFINAL\Classes.h(1000,12): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\source\repos\oopFINAL\oopFINAL\Source.cpp(7,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  oopFINAL.vcxproj -> C:\Users\Asus\source\repos\oopFINAL\x64\Debug\oopFINAL.exe
